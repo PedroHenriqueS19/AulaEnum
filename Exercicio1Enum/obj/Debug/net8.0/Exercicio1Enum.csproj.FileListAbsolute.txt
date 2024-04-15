@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\bin\Debug\net8.0\Exercicio1Enum.exe
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\bin\Debug\net8.0\Exercicio1Enum.deps.json
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\bin\Debug\net8.0\Exercicio1Enum.runtimeconfig.json
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\bin\Debug\net8.0\Exercicio1Enum.dll
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\bin\Debug\net8.0\Exercicio1Enum.pdb
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\Exercicio1Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\Exercicio1Enum.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\Exercicio1Enum.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\Exercicio1Enum.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\Exercicio1Enum.dll
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\refint\Exercicio1Enum.dll
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\Exercicio1Enum.pdb
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\Exercicio1Enum.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Exercicio1Enum\Exercicio1Enum\obj\Debug\net8.0\ref\Exercicio1Enum.dll
